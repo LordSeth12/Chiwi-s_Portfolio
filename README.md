@@ -1,7 +1,7 @@
 # Chiwi-s_Portfolio
 
 
-#[List of Possible Portfolios](https://github.com/LordSeth12/Chiwi-s_Portfolio.git)
+#[LIST OF POSSIBLE PORTFOLIOS](https://github.com/LordSeth12/Chiwi-s_Portfolio.git)
 
 
 1. Exportary Data Analysis - How to recognize patterns in data
