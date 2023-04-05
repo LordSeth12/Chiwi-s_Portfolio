@@ -5,5 +5,8 @@
 Analytics portforlio
 
 List of possible portfolios:
-*Available Data Analyst Jobs vs New Hires for data Analysts
-*Longevity of Data Analyst Careers
+1. Exportary Data Analysis - How to recognize patterns in data
+
+2. Visualizing/Dashboard project - Be able to build dashboards and visualize data
+
+3. Collaberation Project - working with other people
