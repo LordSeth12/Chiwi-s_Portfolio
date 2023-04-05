@@ -1,9 +1,6 @@
 # Chiwi-s_Portfolio
 
 
-
-Analytics portforlio
-
 List of possible portfolios:
 1. Exportary Data Analysis - How to recognize patterns in data
 
